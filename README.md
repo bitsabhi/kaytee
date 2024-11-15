@@ -2,13 +2,17 @@
 
 Repository for knowledge transfer and technical architecture documentation.
 
+## Quick Links
+- [Main TODOs](main-todos.md) - Critical tasks and tracking - KT focussed
+
 ## Structure
 
 ```
 .
 ├── KT/            # Knowledge Transfer Documentation
 ├── tech/          # Technical Architecture Documentation
-└── business/      # Business Documentation (ignored in git)
+├── business/      # Business Documentation (ignored in git)
+└── main-todos.md  # Critical tasks and tracking
 ```
 
 ## Documentation Categories
@@ -22,4 +26,3 @@ Repository for knowledge transfer and technical architecture documentation.
 - Android architecture
 - iOS architecture
 - Golang architecture
-
