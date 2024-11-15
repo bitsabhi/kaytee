@@ -3,7 +3,7 @@
 Repository for knowledge transfer and technical architecture documentation.
 
 ## Quick Links
-**- [todo](main-todos.md) - **Critical tasks and tracking - KT focussed
+### [todo](main-todos.md) *Critical tasks* and tracking - **KT focussed**
 
 ## Structure
 
@@ -18,7 +18,7 @@ Repository for knowledge transfer and technical architecture documentation.
 ## Documentation Categories
 
 ### Knowledge Transfer (KT/)
-- Exit checklists and procedures
+- [Exit checklists and procedures
 - Transfer guidelines
 - Code refactoring plans
 
