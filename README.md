@@ -3,7 +3,7 @@
 Repository for knowledge transfer and technical architecture documentation.
 
 ## Quick Links
-### [todo](main-todos.md) *Critical tasks* and tracking - **KT focussed**
+### [Light-ON](main-todos.md) *Critical tasks* and tracking - **KT focussed**
 
 ## Structure
 
