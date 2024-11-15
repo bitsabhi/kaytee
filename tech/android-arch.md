@@ -1,4 +1,4 @@
-# Android Cryptocurrency Project Structure
+# Android Project Arch
 
 ```kotlin
 /app
