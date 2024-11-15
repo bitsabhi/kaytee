@@ -1,4 +1,4 @@
-# iOS Cryptocurrency Project Structure
+# iOS Project Arch
 
 ```swift
 /App
