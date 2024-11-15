@@ -25,13 +25,16 @@
 ## 3. Urgent Hiring Requirements
 
 ### Principal Engineer
-- System design expertise
-- Team leadership
-- Architecture planning
-- Scaling experience
+- IC/dev mindset
+  - Believes in the company mission.
+  - Experience in mentoring juniors
+  - Experience in designing and architecture
+  - Good to have Securty Experience
+  - k8s experience
 
 ### DevOps Engineer
 - Terraform expert
 - AWS infrastructure
 - CI/CD pipeline specialist
 - Deployment automation focus
+- Expert in bash
