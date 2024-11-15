@@ -1,4 +1,4 @@
-# Golang Cryptocurrency Codebase Refactoring Plan
+# Golang Codebase Refactoring Plan
 
 ## Phase 1: Security & Core Architecture
 
