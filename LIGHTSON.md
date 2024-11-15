@@ -20,7 +20,7 @@
 
 ## 3. Urgent Hiring Requirements
 
-## Principal Engineer
+### Principal Engineer
 - IC/dev mindset
   - Believes in the company mission.
   - Experience in mentoring juniors
@@ -34,3 +34,8 @@
 - CI/CD pipeline specialist
 - Deployment automation focus
 - Expert in bash
+
+### Todos
+- [ ] KT
+- [ ] Add checkboxes to the existing items
+- [ ] Document any additional requirements or tasks
