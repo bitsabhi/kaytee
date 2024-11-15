@@ -3,7 +3,7 @@
 Repository for knowledge transfer and technical architecture documentation.
 
 ## Quick Links
-### [Light-ON](main-todos.md) *Critical tasks* and tracking - **KT focussed**
+### [todo](LIGHTSON.md) *Critical tasks* and tracking - **KT focussed**
 
 ## Structure
 
@@ -12,7 +12,7 @@ Repository for knowledge transfer and technical architecture documentation.
 ├── KT/            # Knowledge Transfer Documentation
 ├── tech/          # Technical Architecture Documentation
 ├── business/      # Business Documentation (ignored in git)
-└── main-todos.md  # Critical tasks and tracking
+└── LIGHTSON.md  # Critical tasks and tracking
 ```
 
 ## Documentation Categories

@@ -1,3 +1,4 @@
 business/*
 !business/.gitkeep
 .DS_Store
+.idea
